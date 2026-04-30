@@ -65,7 +65,6 @@ frontend/
     ├── pages
     ├── api
     └── App.jsx
-```bash
 
 
 ---
