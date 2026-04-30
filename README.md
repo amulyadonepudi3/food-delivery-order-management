@@ -49,20 +49,23 @@ A modern full-stack Food Ordering System built using **Spring Boot (Java)** for 
 ---
 
 ## 📁 Project Structure
+
+```bash
 backend/
 └── src/main/java/com/example/ordermanagement
-├── controller
-├── service
-├── repository
-├── entity
-└── OrderManagementApplication.java
+    ├── controller
+    ├── service
+    ├── repository
+    ├── entity
+    └── OrderManagementApplication.java
 
 frontend/
 └── src/
-├── components
-├── pages
-├── api
-└── App.jsx
+    ├── components
+    ├── pages
+    ├── api
+    └── App.jsx
+```bash
 
 
 ---
